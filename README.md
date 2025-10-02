@@ -30,6 +30,18 @@ Studing Electrical Engineering in MADAN MOHAN MALVIYA TECHNICAL UNIVERSITY <br>
     </a>
 </p>
 
+---
+
+## Local Preview
+
+Open `index.html` directly in your browser, or use a simple static server:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
 
 
 
