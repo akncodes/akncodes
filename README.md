@@ -10,10 +10,24 @@ I am a motivated **Web & Back-End Developer** and **Electrical Engineering under
 ---
 
 ## 🚀 Projects
-### **ABHYUDAYA ’25 – MMMUT Cultural Fest | Web Developer**
-🔗 **Live:** https://abhyudaya.live/  
-- Designed and developed the official cultural fest website of MMMUT  
-- Built a dynamic platform for event promotion and participant engagement  
+### **ABHYUDAYA ’26 – MMMUT Cultural Fest | Web Developer**
+🔗 **Live:** https://abhyudaya.site/  
+- Managed 30,000 visitors with seamless page performance.
+
+- Scaled platform to handle 5,000 successful registrations.
+
+- Implemented lazy loading for faster image rendering.
+
+- Deployed CDN caching to reduce global latency.
+
+- Used srcset for device-specific image resolution delivery.
+
+- Applied Gzip compression to minimize asset sizes.
+
+- Integrated blur-up placeholders for better perceived speed.
+
+- Achieved sub-2s load times under high traffic.
+   
 
 ### **INTERVUE-AI | AI Mock Interview Platform**
 🔗 **Live:** https://intervue-ai-sand.vercel.app/  
