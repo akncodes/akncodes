@@ -1,11 +1,11 @@
-# 💫 About Me:
+#  About Me:
 I am a motivated **Web & Back-End Developer** and **Electrical Engineering undergraduate** with strong experience in building scalable web applications, REST APIs, and responsive user interfaces. I specialize in **JavaScript, C++, React, Node.js**, and modern web technologies, with a solid foundation in **software engineering, data structures, and system design**.
 
-🌱 **Currently learning:** Advanced React, backend architecture, and system optimization  
-🔭 **Current project:** Developing and scaling my personal portfolio website using React and Tailwind CSS  
-👯 **Looking to collaborate on:** Full-stack web projects, real-time applications, and innovative tech-driven platforms  
-💬 **Ask me about:** Web development, REST APIs, backend logic, DSA (C++), and project structuring  
-⚡ **Fun fact:** I balance coding with creativity—actively involved in cultural activities and design work  
+ **Currently learning:** Advanced React, backend architecture, and system optimization  
+ **Current project:** Developing and scaling my personal portfolio website using React and Tailwind CSS  
+ **Looking to collaborate on:** Full-stack web projects, real-time applications, and innovative tech-driven platforms  
+ **Ask me about:** Web development, REST APIs, backend logic, DSA (C++), and project structuring  
+ **Fun fact:** I balance coding with creativity—actively involved in cultural activities and design work  
 
 ---
 
