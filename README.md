@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+🚀;Full-Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Projects+⚡;Open+to+Internships+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+;Full-Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Projects+;Open+to+Internships+" />
 
 </div>
 
